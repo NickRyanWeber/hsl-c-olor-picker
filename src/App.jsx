@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import Color from './components/Color.jsx'
 
 class App extends Component {
   render() {
-    return <HelloWorld />
+    return <Color />
   }
 }
 
