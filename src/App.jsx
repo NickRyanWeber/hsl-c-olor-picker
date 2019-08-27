@@ -4,7 +4,7 @@ import Color2 from './components/Color2.jsx'
 
 class App extends Component {
   render() {
-    return <Color2 />
+    return <Color />
   }
 }
 
